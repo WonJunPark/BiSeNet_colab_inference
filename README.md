@@ -9,8 +9,8 @@
 </div>
 
 <div>
-<img width="500" src = ./18050.png>
-<img width="500" src = ./18050 (1).png>
+<img width="400" src = ./18050.png>
+<img width="400" src = ./18050(1).png>
 </div>
 
 ref . https://github.com/CoinCheung/BiSeNet
