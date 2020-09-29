@@ -1,4 +1,12 @@
-# BiSeNetV1 & BiSeNetV2
+# BiSeNetV2
+
+- colab 환경에서 돌릴수 있게 셋팅해둠
+- 구글 드라이브에서 이미지 불러오기 및 저장 경로 셋팅이 필요
+- 
+
+ref . https://github.com/CoinCheung/BiSeNet
+
+
 
 My implementation of [BiSeNetV1](https://arxiv.org/abs/1808.00897) and [BiSeNetV2](https://arxiv.org/abs/1808.00897).
 
