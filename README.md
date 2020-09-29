@@ -4,7 +4,7 @@
 - 구글 드라이브에서 이미지 불러오기 및 저장 경로 셋팅이 필요
 - 
 <div>
-  <img src = ./gpu.PNG>
+  <img width="200" src = ./gpu.PNG>
 </div>
 
 ref . https://github.com/CoinCheung/BiSeNet
